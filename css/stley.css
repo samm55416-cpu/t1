@@ -1,0 +1,18 @@
+p{
+    background-color: black;
+    width: 150px;height: 150px;
+    color: #777916d7;
+    width: 80px;height: 80px;
+}
+ 
+samp{
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    color:wheat
+}
+button{
+    background-color: blue;
+    width: 200px;
+    color: aqua;
+}
